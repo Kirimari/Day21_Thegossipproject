@@ -14,7 +14,7 @@ de la team Lilloise #WELSH de The Hacking Project.
 
 <h3>Pour utiliser l'app:</h3>
 
--1) ```git clone https://github.com/TheLondonWhale/THP_week_5_monday```</br>
+-1) ```git clone https://github.com/Kirimari/Day21_Thegossipproject```</br>
 -2) ```cd``` dans le dossier créé</br>
 -3) ```bundle install```</br>
 -3) ```rails db:create```</br>

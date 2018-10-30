@@ -1,5 +1,3 @@
-# README
-
 # The_Gossip_project
 
 Ce projet a été réalisé  en collaboration avec <a href = "https://github.com/TheLondonWhale/">Thomas Perus</a> (@Thomas)

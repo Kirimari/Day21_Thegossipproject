@@ -1,8 +1,8 @@
 # README
 
-# The_Gossip_project (version 187255)
+# The_Gossip_project
 
-Ce projet a été réalisé  en collaboration avec <a href = "https://github.com/TheLondonWhale/">Thomas Perus</a> (@Mouss)
+Ce projet a été réalisé  en collaboration avec <a href = "https://github.com/TheLondonWhale/">Thomas Perus</a> (@Thomas)
 de la team Lilloise #WELSH de The Hacking Project.
 
 <h3>L'exercice consistait à :</h3>
@@ -23,4 +23,4 @@ de la team Lilloise #WELSH de The Hacking Project.
 
 <h3>Pour voir l'app en production :</h3>
 
-https://test-w5d1-gossip-project.herokuapp.com/
+https://thegossipproject.herokuapp.com/
